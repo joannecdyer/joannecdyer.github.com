@@ -13,7 +13,7 @@ screenshots:
 
 ### Lumio - Act fast before the lights go out!
 
-Today I’m launching my first iOS game, Lumio! The whole game took around three weeks to make, from concept through to release and it taught me how to code in Objective-C and how to use Cocos2D.
+Today I’m launching my first iOS game, Lumio! The whole game took around four weeks to make, from concept through to release and it taught me how to code in Objective-C and how to use Cocos2D.
 
 You can [download the game](https://itunes.apple.com/us/app/lumio/id608072046) on the App Store or [check out the source](https://github.com/joannecdyer/lumio) on GitHub.
 
