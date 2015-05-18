@@ -23,9 +23,9 @@ You can [download the game](https://itunes.apple.com/us/app/lumio/id608072046) o
 
 Navigate across the lit platforms to collect stars and level up. But be quick, because when the lights go out you'll have to find a different route. Fight against the clock in this fast-paced puzzle game, take too long and it's game over!
 
-I loved every minute developing the game, and the challenges involved. I’m looking for opportunities in SF right now so if you are looking to hire an engineer, then please [get in touch](mailto:support@joannecdyer.com).
+I loved every minute developing the game, and the challenges involved. I’m looking for opportunities in SF right now so if you are looking to hire an engineer, then please [get in touch](mailto:support@joannecmaynard.com).
 
 
 #### Feedback / Support
 
-Please send any issues or feedback to <support@joannecdyer.com>, I'd love to hear what you think!
+Please send any issues or feedback to <support@joannecmaynard.com>, I'd love to hear what you think!
