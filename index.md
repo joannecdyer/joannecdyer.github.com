@@ -5,7 +5,7 @@ title: Joanne Dyer
 
 ### About Me
 
-Developer of Lumio, the illuminating iOS puzzle game. Previously worked as a software engineer, developing for companies like Cassidian and General Electric.
+Developer of Lumio, an iOS puzzle game available on the App Store. Previously worked as a software engineer, developing for companies like Cassidian and General Electric.
 
 
 ### Projects & Posts
