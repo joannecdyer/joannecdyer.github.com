@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Joanne Dyer : joannecdyer.com" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/stylesheet.css">
+
+    <title>{{ page.title or Joanne Dyer }}</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/joannecdyer/{{ page.repo }}">View on GitHub</a>
+
+          <h1 id="project_title"><a href="/">Joanne Dyer</a></h1>
+          <h2 id="project_tagline">joannecdyer.com</h2>
+
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+      </section>
+    </div>
+    
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-39400652-1']);
+      _gaq.push(['_setDomainName', 'joannecdyer.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <a href="http://uk.linkedin.com/in/joannecdyer" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif;"><img src="/images/linkedin_32.png" width="32" height="32" alt="View my profile" style="vertical-align:middle" border="0">View my profile</span></a>
+      </footer>
+    </div>
+  </body>
+</html>
