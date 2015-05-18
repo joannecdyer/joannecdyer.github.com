@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Joanne Maynard (Dyer)
+title: Joanne Maynard
 ---
 
 ### About Me
