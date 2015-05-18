@@ -18,4 +18,4 @@ You can [check out the source](https://github.com/joannecdyer/shape-game) on Git
 
 #### Feedback
 
-Please send any feedback to <support@joannecdyer.com>, I'd love to hear what you think!
+Please send any feedback to <support@joannecmaynard.com>, I'd love to hear what you think!
