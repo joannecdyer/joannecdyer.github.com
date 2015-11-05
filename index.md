@@ -5,7 +5,7 @@ title: Joanne Maynard
 
 ### About Me
 
-Developer of Lumio, an iOS puzzle game available on the App Store. Previously worked as a software engineer, developing for companies like Cassidian and General Electric.
+Developer of Lumio, an iOS puzzle game previously available on the App Store. Formerly worked as a software engineer, developing for companies like Cassidian and General Electric.
 
 
 ### Projects & Posts
